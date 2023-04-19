@@ -11,7 +11,7 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
         private readonly ILogger _logger;
         private string _workingPath = string.Empty;
         private Dictionary<string, List<string>> _duplicatesDictionary;
-        private List<string> _extraFileExtension = new List<string> { ".url", ".pdf", ".jpg" };
+        private List<string> _extraFileExtension = new List<string> { ".url", ".pdf", ".jpg" , ".zip", ".rar"};
 
         public Step2(ILogger logger)
         {
