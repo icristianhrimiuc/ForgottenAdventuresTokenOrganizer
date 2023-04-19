@@ -1,10 +1,7 @@
 ﻿#pragma warning disable CA1416 // Validate platform compatibility
 using ForgottenAdventuresTokenOrganizer.Usefull;
 using ForgottenAdventuresTokenOrganizer.Usefull.Logging;
-using System.Collections.Generic;
 using System.Drawing;
-using System.IO;
-using System.Linq;
 
 namespace ForgottenAdventuresTokenOrganizer.Steps
 {

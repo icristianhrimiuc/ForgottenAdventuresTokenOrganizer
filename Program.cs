@@ -1,7 +1,5 @@
 ﻿using ForgottenAdventuresTokenOrganizer.Usefull.Logging;
-using System;
 using ForgottenAdventuresTokenOrganizer.Steps;
-using System.IO;
 using ForgottenAdventuresTokenOrganizer.FolderStructure;
 
 namespace ForgottenAdventuresTokenOrganizer
@@ -15,7 +13,7 @@ namespace ForgottenAdventuresTokenOrganizer
             {
                 logger.Information("Starting up Program");
                 Console.WriteLine("Program started, check the log file for more information...");
-                if(args.Length > 0)
+                if (args.Length > 0)
                 {
                     switch (args[0].ToLower())
                     {

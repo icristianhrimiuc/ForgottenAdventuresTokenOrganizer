@@ -1,7 +1,6 @@
 ﻿using ForgottenAdventuresTokenOrganizer.FolderStructure;
 using ForgottenAdventuresTokenOrganizer.Usefull;
 using ForgottenAdventuresTokenOrganizer.Usefull.Logging;
-using System.IO;
 
 namespace ForgottenAdventuresTokenOrganizer.Steps
 {

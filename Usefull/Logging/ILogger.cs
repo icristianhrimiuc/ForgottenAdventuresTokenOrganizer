@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ForgottenAdventuresTokenOrganizer.Usefull.Logging
+﻿namespace ForgottenAdventuresTokenOrganizer.Usefull.Logging
 {
     public interface ILogger
     {

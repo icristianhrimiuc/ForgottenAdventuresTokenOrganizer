@@ -1,5 +1,4 @@
 ﻿using ForgottenAdventuresTokenOrganizer.Usefull.Logging;
-using System.IO;
 
 namespace ForgottenAdventuresTokenOrganizer.Steps
 {
