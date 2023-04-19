@@ -2,7 +2,7 @@
 This is a .NET Framework Console App designed to organize the topdown tokens from ForgottenAdventures Patreon Creator;
 
 Download: 
-To download the latest version of this tool check the available versions in Releasese, just to the right of this text ====>
+To download the latest version of this tool check the available versions in Releasese ====>
 
 Example usages:
 - ForgottenAdventuresTokenOrganizer.exe -organizefiles "Path\To\Source\Files"
