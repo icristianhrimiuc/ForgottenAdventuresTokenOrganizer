@@ -1,0 +1,2971 @@
+[
+  {
+    "DirectoryName": "Artificer",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin artificer",
+          "goblin bomber"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched artificer",
+          "fire plane touched artificer",
+          "magma plane touched artificer",
+          "sun plane touched artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged artificer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Barbarian",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "barbarian"
+        ],
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 32,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched barbarian",
+          "fire plane touched barbarian",
+          "magma plane touched barbarian",
+          "sun plane touched barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 21,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged barbarian"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Bard",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "bard"
+        ],
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 56,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 7,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched bard",
+          "fire plane touched bard",
+          "magma plane touched bard",
+          "sun plane touched bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged bard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Cleric",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "cleric"
+        ],
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 32,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 16,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched cleric",
+          "fire plane touched cleric",
+          "magma plane touched cleric",
+          "sun plane touched cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged cleric"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Druid",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "druid"
+        ],
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 48,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 20,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched druid",
+          "fire plane touched druid",
+          "magma plane touched druid",
+          "sun plane touched druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged druid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Fighter",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "fighter"
+        ],
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 40,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 50,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 7,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched fighter",
+          "fire plane touched fighter",
+          "magma plane touched fighter",
+          "sun plane touched fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged fighter"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Monk",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "monk"
+        ],
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 32,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf monk",
+          "dwarf pugilist"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 26,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched monk",
+          "fire plane touched monk",
+          "magma plane touched monk",
+          "sun plane touched monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 14,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged monk"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Paladin",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "paladin"
+        ],
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 32,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 11,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched paladin",
+          "fire plane touched paladin",
+          "magma plane touched paladin",
+          "sun plane touched paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged paladin"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 7,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Ranger",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "ranger"
+        ],
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 32,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 11,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin ranger",
+          "goblin archer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 20,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched ranger",
+          "fire plane touched ranger",
+          "magma plane touched ranger",
+          "sun plane touched ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 7,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged ranger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 7,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Rogue",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "rogue"
+        ],
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 32,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 20,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 16,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched rogue",
+          "fire plane touched rogue",
+          "magma plane touched rogue",
+          "sun plane touched rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 5,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 14,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged rogue"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Sorcerer",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "sorcerer"
+        ],
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 48,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf sorcerer",
+          "elf sorcerer2"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 35,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched sorcerer",
+          "fire plane touched sorcerer",
+          "magma plane touched sorcerer",
+          "sun plane touched sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged sorcerer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Spellcaster",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 20,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 7,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched spellcaster",
+          "fire plane touched spellcaster",
+          "magma plane touched spellcaster",
+          "sun plane touched spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged spellcaster"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Warlock",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "warlock"
+        ],
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 72,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 16,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched warlock",
+          "fire plane touched warlock",
+          "magma plane touched warlock",
+          "sun plane touched warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged warlock"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      }
+    ]
+  },
+  {
+    "DirectoryName": "Wizard",
+    "SearchPatterns": null,
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": [
+      {
+        "DirectoryName": "_General",
+        "SearchPatterns": [
+          "wizard"
+        ],
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 56,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Bearfolk",
+        "SearchPatterns": [
+          "bearfolk wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dragonborn",
+        "SearchPatterns": [
+          "dragonborn wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 14,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dwarf",
+        "SearchPatterns": [
+          "dwarf wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 20,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Elf",
+        "SearchPatterns": [
+          "elf wizard",
+          "elf necromancer"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Firbolg",
+        "SearchPatterns": [
+          "firbolg wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnoll",
+        "SearchPatterns": [
+          "gnoll wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gnome",
+        "SearchPatterns": [
+          "gnome wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goblin",
+        "SearchPatterns": [
+          "goblin wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goliath",
+        "SearchPatterns": [
+          "goliath wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Elf",
+        "SearchPatterns": [
+          "halfelf wizard",
+          "halfelf bladsinger",
+          "halfelf bladesinger"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 22,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Half-Orc",
+        "SearchPatterns": [
+          "halforc wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Halfling",
+        "SearchPatterns": [
+          "halfling wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Human",
+        "SearchPatterns": [
+          "human wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kenku",
+        "SearchPatterns": [
+          "kenku wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kitsune",
+        "SearchPatterns": [
+          "kitsune wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Planetouched",
+        "SearchPatterns": [
+          "plane touched wizard",
+          "fire plane touched wizard",
+          "magma plane touched wizard",
+          "sun plane touched wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tabaxi",
+        "SearchPatterns": [
+          "tabaxi wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tiefling",
+        "SearchPatterns": [
+          "tiefling wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 14,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tortle",
+        "SearchPatterns": [
+          "tortle wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Trollkin",
+        "SearchPatterns": [
+          "trollkin wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Warforged",
+        "SearchPatterns": [
+          "warforged wizard"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      }
+    ]
+  }
+]

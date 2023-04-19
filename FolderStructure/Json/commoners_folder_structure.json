@@ -1,0 +1,143 @@
+[
+  {
+    "DirectoryName": "Dragonborn",
+    "SearchPatterns": [
+      "dragonborn commoner"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 20,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Dwarves",
+    "SearchPatterns": [
+      "dwarf commoner"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 12,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Elves",
+    "SearchPatterns": [
+      "elf commoner"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 12,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Gnomes",
+    "SearchPatterns": [
+      "gnome commoner"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 12,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Half-Elves",
+    "SearchPatterns": [
+      "halfelf commoner",
+      "townsfolk aa2",
+      "townsfolk ab2",
+      "townsfolk ac2",
+      "townsfolk al2",
+      "townsfolk am2",
+      "townsfolk an2",
+      "townsfolk ao2",
+      "townsfolk ap2"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 83,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Half-Orcs",
+    "SearchPatterns": [
+      "halforc commoner"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 12,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Halflings",
+    "SearchPatterns": [
+      "halfling barkeep",
+      "halfling beggar",
+      "halfling blacksmith",
+      "halfling commoner",
+      "halfling cook",
+      "halfling crier",
+      "halfling crone",
+      "halfling fisherman",
+      "halfling lumberjack",
+      "halfling maid",
+      "halfling merchant",
+      "halfling minstrel",
+      "halfling server",
+      "halfling stablehand",
+      "halfling thug",
+      "halfling traveler",
+      "halfling worker",
+      "halfling peddler"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 186,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Humans",
+    "SearchPatterns": [
+      "human barkeep",
+      "human beggar",
+      "human blacksmith",
+      "human commoner",
+      "human cook",
+      "human crier",
+      "human crone",
+      "human fisherman",
+      "human lumberjack",
+      "human maid",
+      "human merchant",
+      "human minstrel",
+      "human server",
+      "human stablehand",
+      "human thug",
+      "human traveler",
+      "human worker",
+      "human peddler",
+      "townsfolk aa1",
+      "townsfolk ab1",
+      "townsfolk ac1",
+      "townsfolk ad",
+      "townsfolk ae",
+      "townsfolk af",
+      "townsfolk ag",
+      "townsfolk ah",
+      "townsfolk ai1",
+      "townsfolk ai2",
+      "townsfolk aj1",
+      "townsfolk aj2",
+      "townsfolk ak",
+      "townsfolk al1",
+      "townsfolk am1",
+      "townsfolk an1",
+      "townsfolk ao1",
+      "townsfolk ap1"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 329,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Tieflings",
+    "SearchPatterns": [
+      "tiefling commoner"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 12,
+    "SubDirectories": null
+  }
+]

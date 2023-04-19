@@ -1,0 +1,143 @@
+[
+  {
+    "DirectoryName": "Dragonborn",
+    "SearchPatterns": [
+      "dragonborn commoner spirit"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 8,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Dwarves",
+    "SearchPatterns": [
+      "dwarf commoner spirit"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 8,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Elves",
+    "SearchPatterns": [
+      "elf commoner spirit"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 8,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Gnomes",
+    "SearchPatterns": [
+      "gnome commoner spirit"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 8,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Half-Elves",
+    "SearchPatterns": [
+      "halfelf commoner spirit",
+      "townsfolk aa2 spirit",
+      "townsfolk ab2 spirit",
+      "townsfolk ac2 spirit",
+      "townsfolk al2 spirit",
+      "townsfolk am2 spirit",
+      "townsfolk an2 spirit",
+      "townsfolk ao2 spirit",
+      "townsfolk ap2 spirit"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 40,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Half-Orcs",
+    "SearchPatterns": [
+      "halforc commoner spirit"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 8,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Halflings",
+    "SearchPatterns": [
+      "halfling barkeep spirit",
+      "halfling beggar spirit",
+      "halfling blacksmith spirit",
+      "halfling commoner spirit",
+      "halfling cook spirit",
+      "halfling crier spirit",
+      "halfling crone spirit",
+      "halfling fisherman spirit",
+      "halfling lumberjack spirit",
+      "halfling maid spirit",
+      "halfling merchant spirit",
+      "halfling minstrel spirit",
+      "halfling server spirit",
+      "halfling stablehand spirit",
+      "halfling thug spirit",
+      "halfling traveler spirit",
+      "halfling worker spirit",
+      "halfling peddler spirit"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 8,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Humans",
+    "SearchPatterns": [
+      "human barkeep spirit",
+      "human beggar spirit",
+      "human blacksmith spirit",
+      "human commoner spirit",
+      "human cook spirit",
+      "human crier spirit",
+      "human crone spirit",
+      "human fisherman spirit",
+      "human lumberjack spirit",
+      "human maid spirit",
+      "human merchant spirit",
+      "human minstrel spirit",
+      "human server spirit",
+      "human stablehand spirit",
+      "human thug spirit",
+      "human traveler spirit",
+      "human worker spirit",
+      "human peddler spirit",
+      "townsfolk aa1 spirit",
+      "townsfolk ab1 spirit",
+      "townsfolk ac1 spirit",
+      "townsfolk ad spirit",
+      "townsfolk ae spirit",
+      "townsfolk af spirit",
+      "townsfolk ag spirit",
+      "townsfolk ah spirit",
+      "townsfolk ai1 spirit",
+      "townsfolk ai2 spirit",
+      "townsfolk aj1 spirit",
+      "townsfolk aj2 spirit",
+      "townsfolk ak spirit",
+      "townsfolk al1 spirit",
+      "townsfolk am1 spirit",
+      "townsfolk an1 spirit",
+      "townsfolk ao1 spirit",
+      "townsfolk ap1 spirit"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 340,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Tieflings",
+    "SearchPatterns": [
+      "tiefling commoner spirit"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 8,
+    "SubDirectories": null
+  }
+]
