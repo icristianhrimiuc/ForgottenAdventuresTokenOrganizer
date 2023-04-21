@@ -8,7 +8,7 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
         private readonly ILogger _logger;
         private string _workingPath = string.Empty;
         private Dictionary<string, List<string>> _duplicatesDictionary;
-        private List<string> _extraFileExtension = new List<string> { ".url", ".pdf", ".jpg" , ".zip", ".rar"};
+        private List<string> _extraFileExtension = new List<string> { ".url", ".pdf", ".jpg", ".zip", ".rar" };
 
         public Step2(ILogger logger)
         {
@@ -38,7 +38,7 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
             {
                 _duplicatesDictionary.Add(key, new List<string>());
             }
-            _logger.Information($"{GetType().Name} - Identified duplicates for Key: {key} Adding duplicate: {Extensions.GetRelativePath(_workingPath, filePath)}");
+            _logger.Information($"{GetType().Name} - Identified duplicates for Key: {key} Adding duplicate: {Path.GetRelativePath(_workingPath, filePath)}");
             _duplicatesDictionary[key].Add(filePath);
         }
 
@@ -52,11 +52,11 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
                 {
                     _logger.Information($"\t{i++} - Key: {key}");
                     var sortedDuplicates = _duplicatesDictionary[key].OrderByDescending(x => new FileInfo(x).LastWriteTime);
-                    _logger.Information($"\t\tLeaving file: {Extensions.GetRelativePath(_workingPath, sortedDuplicates.ElementAt(0))}");
+                    _logger.Information($"\t\tLeaving file: {Path.GetRelativePath(_workingPath, sortedDuplicates.ElementAt(0))}");
                     foreach (var filePath in sortedDuplicates.Skip(1))
                     {
-                        _logger.Information($"\t\tRemoving file: {Extensions.GetRelativePath(_workingPath, filePath)}");
-                        if(actuallyRemove) File.Delete(filePath);
+                        _logger.Information($"\t\tRemoving file: {Path.GetRelativePath(_workingPath, filePath)}");
+                        if (actuallyRemove) File.Delete(filePath);
                     }
                 }
             }

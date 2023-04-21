@@ -36,12 +36,12 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
                 var fileWords = fileName.Split(new char[] { '_' });
                 if (!identified && IsMatch(tuple.patternWords, fileWords))
                 {
-                    _logger.Information($"{GetType().Name} - File {Extensions.GetRelativePath(_sourcePath, oldFilePath)} is match for \"{tuple.key}\"");
+                    _logger.Information($"{GetType().Name} - File {Path.GetRelativePath(_sourcePath, oldFilePath)} is match for \"{tuple.key}\"");
                     foreach (var newDirectory in _folderStructureDictionary[tuple.key])
                     {
                         if (!Directory.Exists(newDirectory)) Directory.CreateDirectory(newDirectory);
                         var newFilePath = Path.Combine(newDirectory, Path.GetFileName(oldFilePath));
-                        _logger.Information($"\tCopy file to {Extensions.GetRelativePath(_destinationPath, newDirectory)}");
+                        _logger.Information($"\tCopy file to {Path.GetRelativePath(_destinationPath, newDirectory)}");
                         CopyFileSafely(oldFilePath, newFilePath, 1);
                     }
                     identified = true;
@@ -49,11 +49,11 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
             }
             if (!identified)
             {
-                _logger.Warning($"{GetType().Name} - File {Extensions.GetRelativePath(_sourcePath, oldFilePath)} was not matched!");
+                _logger.Warning($"{GetType().Name} - File {Path.GetRelativePath(_sourcePath, oldFilePath)} was not matched!");
                 var unknownDirectory = Path.Combine(_destinationPath, "_Unknown");
                 Directory.CreateDirectory(unknownDirectory);
                 var newFilePath = Path.Combine(unknownDirectory, Path.GetFileName(oldFilePath)); 
-                _logger.Information($"\tCopy file to {Extensions.GetRelativePath(_destinationPath, unknownDirectory)}");
+                _logger.Information($"\tCopy file to {Path.GetRelativePath(_destinationPath, unknownDirectory)}");
                 CopyFileSafely(oldFilePath, newFilePath, 1);
             }
         }

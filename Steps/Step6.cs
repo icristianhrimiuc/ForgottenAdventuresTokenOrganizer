@@ -1,5 +1,4 @@
 ﻿using ForgottenAdventuresTokenOrganizer.FolderStructure;
-using ForgottenAdventuresTokenOrganizer.Usefull;
 using ForgottenAdventuresTokenOrganizer.Usefull.Logging;
 
 namespace ForgottenAdventuresTokenOrganizer.Steps
@@ -20,7 +19,7 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
             var deletePatterns = new DeletePatternsBuilder(_logger).GetTokensDeletePatterns(workingPath);
             foreach (string directory in deletePatterns.Keys)
             {
-                _logger.Information($"\tProcessing directory: {Extensions.GetRelativePath(workingPath, directory)}");
+                _logger.Information($"\tProcessing directory: {Path.GetRelativePath(workingPath, directory)}");
                 foreach (var filePath in Directory.GetFiles(directory))
                 {
                     var fileName = Path.GetFileName(filePath).ToLower();
@@ -28,11 +27,11 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
                     {
                         if(directory.Contains("_Unknown") && fileName.ToLower().Contains(pattern.ToLower()))
                         {
-                            _logger.Information($"\t\t{i++} - Removing file: {Extensions.GetRelativePath(workingPath, filePath)}");
+                            _logger.Information($"\t\t{i++} - Removing file: {Path.GetRelativePath(workingPath, filePath)}");
                             if (actuallyRemove)
                             {
                                 File.Delete(filePath);
-                                _logger.Information($"\t\tActually Removed file: {Extensions.GetRelativePath(workingPath, filePath)}");
+                                _logger.Information($"\t\tActually Removed file: {Path.GetRelativePath(workingPath, filePath)}");
                             }
                         }
                         else
@@ -41,11 +40,11 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
                             var patternWords = pattern.ToLower().Split();
                             if (IsMatch(patternWords, fileWords))
                             {
-                                _logger.Information($"\t\t{i++} - Removing file: {Extensions.GetRelativePath(workingPath, filePath)}");
+                                _logger.Information($"\t\t{i++} - Removing file: {Path.GetRelativePath(workingPath, filePath)}");
                                 if (actuallyRemove)
                                 {
                                     File.Delete(filePath);
-                                    _logger.Information($"\t\tActually Removed file: {Extensions.GetRelativePath(workingPath, filePath)}");
+                                    _logger.Information($"\t\tActually Removed file: {Path.GetRelativePath(workingPath, filePath)}");
                                 }
                             }
                         }

@@ -1,5 +1,4 @@
 ﻿using ForgottenAdventuresTokenOrganizer.FolderStructure;
-using ForgottenAdventuresTokenOrganizer.Usefull;
 using ForgottenAdventuresTokenOrganizer.Usefull.Logging;
 
 namespace ForgottenAdventuresTokenOrganizer.Steps
@@ -30,12 +29,12 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
                     {
                         var diff = Math.Abs(actualNrOfFiles - expectedNrOfFiles[directory]);
                         var textDiff = actualNrOfFiles > expectedNrOfFiles[directory] ? "more" : "less";
-                        _logger.Warning($"\tDirectory {Extensions.GetRelativePath(workingPath, directory)} has {diff} {textDiff} files than expected!");
+                        _logger.Warning($"\tDirectory {Path.GetRelativePath(workingPath, directory)} has {diff} {textDiff} files than expected!");
                     }
                 }
                 else
                 {
-                    _logger.Warning($"\tDirectory {Extensions.GetRelativePath(workingPath, directory)} does not exist!");
+                    _logger.Warning($"\tDirectory {Path.GetRelativePath(workingPath, directory)} does not exist!");
                 }
             }
             _logger.Information($"{GetType().Name} - Done verifying! Total number of files is Actual: {actualTotalNumberOfFiles} Expected: {expectedTotalNumberOfFiles}");

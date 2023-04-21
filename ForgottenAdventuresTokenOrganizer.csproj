@@ -11,6 +11,7 @@
   <ItemGroup>
     <None Remove=".gitattributes" />
     <None Remove=".gitignore" />
+    <None Remove="ForgottenAdventuresTokenOrganizer_TemporaryKey.pfx" />
     <None Remove="README.md" />
   </ItemGroup>
 

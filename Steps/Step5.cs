@@ -36,23 +36,23 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
             if (parentDirectory == null) return;
             var sortedFiles = Directory.GetFiles(parentDirectory).OrderBy(x => Path.GetFileName(x)).ToList();
             var startIndex = sortedFiles.FindIndex(file => Path.GetFileName(file) == Path.GetFileName(originalFilePath)) + 1;
-            _logger.Information($"{GetType().Name} - Image comparison for {Extensions.GetRelativePath(_workingPath, originalFilePath)}");
+            _logger.Information($"{GetType().Name} - Image comparison for {Path.GetRelativePath(_workingPath, originalFilePath)}");
             for (int i = startIndex; i < sortedFiles.Count; i++)
             {
                 var filePath = sortedFiles[i];
-                _logger.Information($"\tCompare to {Extensions.GetRelativePath(_workingPath, filePath)}");
+                _logger.Information($"\tCompare to {Path.GetRelativePath(_workingPath, filePath)}");
                 if (originalFilePath != filePath && ImagesAreSimilar(originalFilePath, filePath))
                 {
-                    _logger.Information($"\tIdentified duplicates for {Extensions.GetRelativePath(_workingPath, originalFilePath)}");
+                    _logger.Information($"\tIdentified duplicates for {Path.GetRelativePath(_workingPath, originalFilePath)}");
                     var key = originalFilePath;
-                    _logger.Information($"\t\tKey: {Extensions.GetRelativePath(_workingPath, key)}");
+                    _logger.Information($"\t\tKey: {Path.GetRelativePath(_workingPath, key)}");
                     if (!_duplicatesDictionary.ContainsKey(key))
                     {
                         _duplicatesDictionary.Add(key, new List<string>());
                     }
                     if (!_duplicatesDictionary[key].Contains(filePath))
                     {
-                        _logger.Information($"\t\t\tAdding duplicate: {Extensions.GetRelativePath(_workingPath, filePath)}");
+                        _logger.Information($"\t\t\tAdding duplicate: {Path.GetRelativePath(_workingPath, filePath)}");
                         _duplicatesDictionary[key].Add(filePath);
                     }
                 }
@@ -71,7 +71,7 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
             {
                 secondBitmap.RotateFlip(rotations[i]);
                 var iHash2 = GetHash(secondBitmap);
-                int equalElements = iHash1.Zip(iHash2, ColorsAreEqual).Count(eq => eq);
+                int equalElements = iHash1.Zip(iHash2, (i, j) => i == j).Count(eq => eq);
                 imagesAreSimilar = imagesAreSimilar || equalElements > iHash1.Count * _percentageOfSimilarity;
             }
 
@@ -91,11 +91,6 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
                 }
             }
             return lResult;
-        }
-
-        private bool ColorsAreEqual(string color1, string color2)
-        {
-            return color1 == color2;
         }
 
         private void ConvertDictionaryToList()
@@ -123,18 +118,18 @@ namespace ForgottenAdventuresTokenOrganizer.Steps
                 {
                     var sortedDuplicates = duplicates.OrderByDescending(x => new FileInfo(x).LastWriteTime);
                     var leftFile = sortedDuplicates.ElementAt(0);
-                    _logger.Information($"\t{i++} - Duplicates for: {Extensions.GetRelativePath(_workingPath, Path.GetDirectoryName(leftFile) ?? string.Empty)}");
-                    _logger.Information($"\t\tLeaving file: {Extensions.GetRelativePath(_workingPath, leftFile)}");
+                    _logger.Information($"\t{i++} - Duplicates for: {Path.GetRelativePath(_workingPath, Path.GetDirectoryName(leftFile) ?? string.Empty)}");
+                    _logger.Information($"\t\tLeaving file: {Path.GetRelativePath(_workingPath, leftFile)}");
                     foreach (var filePath in sortedDuplicates.Skip(1))
                     {
-                        _logger.Information($"\t\tRemoving file: {Extensions.GetRelativePath(_workingPath, filePath)}");
+                        _logger.Information($"\t\tRemoving file: {Path.GetRelativePath(_workingPath, filePath)}");
                         if (actuallyRemove)
                         {
                             var leftFileName = Path.GetFileName(leftFile);
-                            if (filePath.Contains(leftFileName) || filePath.Contains(leftFileName.Substring(7, leftFileName.Length - 7)))
+                            if (filePath.Contains(leftFileName) || filePath.Contains(leftFileName[7..]))
                             {
                                 File.Delete(filePath);
-                                _logger.Information($"\t\tActually Removed file: {Extensions.GetRelativePath(_workingPath, filePath)}");
+                                _logger.Information($"\t\tActually Removed file: {Path.GetRelativePath(_workingPath, filePath)}");
                             }
                         }
                     }
