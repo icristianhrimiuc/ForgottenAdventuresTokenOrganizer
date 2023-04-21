@@ -21,8 +21,8 @@ Step description:
 - Step3 will go trough the remaining files in the "FA Chaotic Files" and copy them to "FA Organized Files" according to the folderstructure defined in "tokens_folder_structure.json" using the "SearchPatterns" ;
     + Some files from the "FA Chaotic Files" directory will have the same filename but not the same filesize, these files are considered duplicates, and will be copied according to the folderstructure but renamed using the prefix "Duplc1_" acording to the "Date Modified" value. "Duplc1_" should be newer than "Duplc2_";
     + It is possible to copy a file to multiple destinations by using the same search pattern on different directories;
-    + The folder structure can be changed by modifying the the files in "FolderStructure/Json", and then regenerating "tokens_folder_structure.json" or by modifying "tokens_folder_structure.json" directly;
-- Step4 will go trough the directories in "FA Organized Files" and will try to identify duplicates based on byte comparison, ignorif the filename. Again, the newest file will be kept, the older files will be deleted;
+    + The folder structure can be changed by modifying the files in "FolderStructure/Json", and then regenerating "tokens_folder_structure.json" or by modifying "tokens_folder_structure.json" directly;
+- Step4 will go trough the directories in "FA Organized Files" and will try to identify duplicates based on byte comparison, ignoring the filename. Again, the newest file will be kept, the older files will be deleted;
 - Step5 was supposed to compare images by rotating them, but it is slow and innacurate, I'm leaving it here in case someone has a better idea;
 - Step6 will remove extra files using the values in "DeletePatterns";
 - Step7 will verify the final number of files in each directory at the end using the "ExpectedFinalNumberOfFiles";
