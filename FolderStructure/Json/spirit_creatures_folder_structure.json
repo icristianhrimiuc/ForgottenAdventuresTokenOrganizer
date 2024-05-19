@@ -11,7 +11,25 @@
           "aboleth spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Alien Brute",
+        "SearchPatterns": [
+          "alien brute spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Alien Hound",
+        "SearchPatterns": [
+          "alien hound spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -21,7 +39,25 @@
           "eye monster spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Brain Devourer",
+        "SearchPatterns": [
+          "brain devourer spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Ceremorph",
+        "SearchPatterns": [
+          "ceremorph spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -30,7 +66,7 @@
           "chuul spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -39,7 +75,7 @@
           "cloaker spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -48,7 +84,7 @@
           "cthulhu cultist spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -57,7 +93,43 @@
           "gibbering mouther spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Intellect Snare",
+        "SearchPatterns": [
+          "intellect snare spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Light Devourer",
+        "SearchPatterns": [
+          "light devourer spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Limbo Frog",
+        "SearchPatterns": [
+          "limbo frog spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Mindwitness",
+        "SearchPatterns": [
+          "mindwitness spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -65,8 +137,10 @@
         "SearchPatterns": [
           "neogi hatchling spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -76,7 +150,7 @@
           "evil eye spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -85,7 +159,7 @@
           "otyugh spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -94,7 +168,16 @@
           "slaad tadpole spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Skum",
+        "SearchPatterns": [
+          "skum spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -104,13 +187,22 @@
           "eye freak spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
         "DirectoryName": "Tentacle Brain",
         "SearchPatterns": [
           "tentacle brain spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Voidfin",
+        "SearchPatterns": [
+          "voidfin spirit"
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 0,
@@ -130,7 +222,7 @@
           "alligator spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -148,9 +240,9 @@
           "almiraj spirit"
         ],
         "DeletePatterns": [
-          "duplc1"
+          "duplc2"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -159,7 +251,7 @@
           "ape spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -168,7 +260,7 @@
           "armadillo spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -176,10 +268,8 @@
         "SearchPatterns": [
           "axe beak spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -190,7 +280,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -201,7 +291,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -212,7 +302,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -221,7 +311,16 @@
           "black bear spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Black Widow",
+        "SearchPatterns": [
+          "black widow spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -229,10 +328,8 @@
         "SearchPatterns": [
           "blood hawk spirit"
         ],
-        "DeletePatterns": [
-          "Blood hawk scale300"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -241,7 +338,7 @@
           "boar spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -250,7 +347,7 @@
           "brown bear spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -258,8 +355,11 @@
         "SearchPatterns": [
           "camel spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -268,7 +368,7 @@
           "capybara spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -277,9 +377,10 @@
           "cat spirit"
         ],
         "DeletePatterns": [
-          "duplc1"
+          "duplc2",
+          "duplc1 cat sleep"
         ],
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -288,7 +389,7 @@
           "cave bear spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -296,10 +397,8 @@
         "SearchPatterns": [
           "chicken spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -308,7 +407,7 @@
           "constrictor snake spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -316,10 +415,8 @@
         "SearchPatterns": [
           "cow spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 20,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -330,7 +427,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -339,7 +436,7 @@
           "crocodile spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -350,7 +447,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -377,7 +474,7 @@
           "dire wolf spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -385,8 +482,10 @@
         "SearchPatterns": [
           "dolphin spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -394,8 +493,10 @@
         "SearchPatterns": [
           "donkey spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -404,7 +505,7 @@
           "draft horse spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -416,7 +517,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -427,7 +528,7 @@
         "DeletePatterns": [
           "eagle scale300"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -436,7 +537,7 @@
           "elephant spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -444,10 +545,8 @@
         "SearchPatterns": [
           "elk spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -455,8 +554,10 @@
         "SearchPatterns": [
           "flumph spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -467,7 +568,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -475,8 +576,11 @@
         "SearchPatterns": [
           "flying snake spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1",
+          "duplc2"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -487,7 +591,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -496,7 +600,7 @@
           "giant ape spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -507,7 +611,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -516,7 +620,7 @@
           "giant bat spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -525,7 +629,7 @@
           "giant boar spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -534,7 +638,7 @@
           "giant centipede spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -543,7 +647,7 @@
           "giant constrictor snake spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -552,7 +656,7 @@
           "giant coral snake spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -561,7 +665,7 @@
           "giant corgi spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -569,8 +673,10 @@
         "SearchPatterns": [
           "giant crab spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -579,7 +685,7 @@
           "giant crocodile spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -588,7 +694,7 @@
           "giant eagle spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -597,7 +703,7 @@
           "giant elk spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -605,10 +711,8 @@
         "SearchPatterns": [
           "giant fire beetle spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -617,9 +721,10 @@
           "giant frog spirit"
         ],
         "DeletePatterns": [
-          "duplc1"
+          "duplc1",
+          "duplc2"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -628,7 +733,7 @@
           "giant goat spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -637,7 +742,16 @@
           "giant goose spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Giant Hamster",
+        "SearchPatterns": [
+          "giant hamster spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -646,7 +760,7 @@
           "giant hyena spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -654,8 +768,10 @@
         "SearchPatterns": [
           "giant lizard spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -664,7 +780,7 @@
           "giant octopus spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -673,7 +789,7 @@
           "giant owl spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 12,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -682,7 +798,7 @@
           "giant poisonous snake spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -693,7 +809,16 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Giant Riding Lizard",
+        "SearchPatterns": [
+          "giant riding lizard spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -702,9 +827,9 @@
           "giant scorpion spirit"
         ],
         "DeletePatterns": [
-          "giant scorpion scale200"
+          "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -713,7 +838,7 @@
           "giant sea horse spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -722,7 +847,7 @@
           "giant shark spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -730,10 +855,8 @@
         "SearchPatterns": [
           "giant spider spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -742,7 +865,16 @@
           "giant toad spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Giant Tentacle",
+        "SearchPatterns": [
+          "giant tentacle spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -750,11 +882,8 @@
         "SearchPatterns": [
           "giant vulture spirit"
         ],
-        "DeletePatterns": [
-          "duplc1",
-          "giant scale200"
-        ],
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -763,7 +892,7 @@
           "giant wasp spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -771,10 +900,8 @@
         "SearchPatterns": [
           "giant weasel spirit"
         ],
-        "DeletePatterns": [
-          "giant weasel scale300"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -783,7 +910,7 @@
           "giant wolf spider spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -791,10 +918,8 @@
         "SearchPatterns": [
           "goat spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -811,10 +936,8 @@
         "SearchPatterns": [
           "hawk spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -822,10 +945,8 @@
         "SearchPatterns": [
           "horseshoe crab spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -834,7 +955,7 @@
           "hunter shark spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -842,10 +963,8 @@
         "SearchPatterns": [
           "hyena spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -853,10 +972,17 @@
         "SearchPatterns": [
           "jackal spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Jaguar",
+        "SearchPatterns": [
+          "jaguar spirit"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -865,7 +991,7 @@
           "killer whale spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -874,7 +1000,7 @@
           "leopard spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -883,7 +1009,7 @@
           "lion spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -892,7 +1018,7 @@
           "lioness spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -900,10 +1026,8 @@
         "SearchPatterns": [
           "lizard spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -912,9 +1036,9 @@
           "lynx spirit"
         ],
         "DeletePatterns": [
-          "duplc1"
+          "duplc2"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -923,7 +1047,7 @@
           "mammoth spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -931,8 +1055,19 @@
         "SearchPatterns": [
           "mastiff spirit"
         ],
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Moose",
+        "SearchPatterns": [
+          "moose spirit"
+        ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -940,8 +1075,10 @@
         "SearchPatterns": [
           "mule spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -949,10 +1086,8 @@
         "SearchPatterns": [
           "octopus spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -960,10 +1095,8 @@
         "SearchPatterns": [
           "owl spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -972,7 +1105,7 @@
           "ox spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -980,8 +1113,28 @@
         "SearchPatterns": [
           "panther spirit"
         ],
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Parrot",
+        "SearchPatterns": [
+          "parrot spirit"
+        ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Penguin",
+        "SearchPatterns": [
+          "penguin spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -989,10 +1142,8 @@
         "SearchPatterns": [
           "pig spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1001,7 +1152,7 @@
           "plesiosaurus spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1009,10 +1160,8 @@
         "SearchPatterns": [
           "poisonous snake spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1021,7 +1170,7 @@
           "polar bear spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1029,8 +1178,10 @@
         "SearchPatterns": [
           "pony spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1047,10 +1198,8 @@
         "SearchPatterns": [
           "quipper spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1061,7 +1210,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1073,7 +1222,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1081,10 +1230,8 @@
         "SearchPatterns": [
           "raven spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1093,7 +1240,16 @@
           "reef shark spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Reindeer",
+        "SearchPatterns": [
+          "reindeer spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1102,7 +1258,7 @@
           "rhinoceros spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1111,16 +1267,25 @@
           "riding horse spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Saber Toothed Tiger",
+        "DirectoryName": "Saber-Toothed Tiger",
         "SearchPatterns": [
           "saber toothed tiger spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Seal",
+        "SearchPatterns": [
+          "seal spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1128,10 +1293,8 @@
         "SearchPatterns": [
           "scorpion spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1140,7 +1303,7 @@
           "sea horse spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1148,10 +1311,8 @@
         "SearchPatterns": [
           "sea turtle spirit"
         ],
-        "DeletePatterns": [
-          "sea turtle scale300"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1159,10 +1320,17 @@
         "SearchPatterns": [
           "sheep spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Sled Dog",
+        "SearchPatterns": [
+          "sled dog spirit"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1170,10 +1338,8 @@
         "SearchPatterns": [
           "spider spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1182,7 +1348,7 @@
           "stirge spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1195,9 +1361,27 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Swarm Of Beetles",
+        "SearchPatterns": [
+          "insect swarm beetles swarm spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Swarm Of Centipedes",
+        "SearchPatterns": [
+          "insect swarm centipedes swarm spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Swarm Of Insects",
         "SearchPatterns": [
-          "swarm of insects spirit",
+          "swarm insects spirit",
           "insect swarm swarm spirit"
         ],
         "DeletePatterns": null,
@@ -1210,7 +1394,7 @@
           "swarm of poisonous snakes spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1218,10 +1402,8 @@
         "SearchPatterns": [
           "swarm of quippers spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1232,7 +1414,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1245,12 +1427,30 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Swarm Of Spiders",
+        "SearchPatterns": [
+          "insect swarm spiders swarm spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Swarm Of Wasps",
+        "SearchPatterns": [
+          "insect swarm wasps swarm spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Tiger",
         "SearchPatterns": [
           "tiger spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1259,10 +1459,8 @@
           "tressym spirit",
           "winged cat spirit"
         ],
-        "DeletePatterns": [
-          "duplc2"
-        ],
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1271,7 +1469,7 @@
           "triceratops spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1279,10 +1477,8 @@
         "SearchPatterns": [
           "turtle spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1291,7 +1487,7 @@
           "tyrannosaurus rex spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1299,11 +1495,8 @@
         "SearchPatterns": [
           "vulture spirit"
         ],
-        "DeletePatterns": [
-          "duplc1",
-          "vulture scale300"
-        ],
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1312,7 +1505,7 @@
           "warhorse spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1320,10 +1513,8 @@
         "SearchPatterns": [
           "weasel spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1332,7 +1523,7 @@
           "wolf spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]
@@ -1349,7 +1540,7 @@
           "couatl spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1358,7 +1549,34 @@
           "deva spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Guardian Lion",
+        "SearchPatterns": [
+          "guardian lion spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Hollyphant",
+        "SearchPatterns": [
+          "hollyphant spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kirin",
+        "SearchPatterns": [
+          "kirin spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1367,7 +1585,7 @@
           "pegasus spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1376,7 +1594,16 @@
           "planetar spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Starlight Apparition",
+        "SearchPatterns": [
+          "starlight apparition spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1385,7 +1612,7 @@
           "solar spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1394,7 +1621,16 @@
           "unicorn spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Valkyrie",
+        "SearchPatterns": [
+          "valkyrie spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]
@@ -1411,7 +1647,7 @@
           "animated armor spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1420,7 +1656,7 @@
           "clay golem spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1429,7 +1665,7 @@
           "flesh golem spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1438,7 +1674,7 @@
           "flying sword spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1446,10 +1682,8 @@
         "SearchPatterns": [
           "homunculus spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1458,7 +1692,7 @@
           "iron golem spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1466,8 +1700,10 @@
         "SearchPatterns": [
           "monodrone spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1476,7 +1712,7 @@
           "rug of smothering spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 32,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1485,7 +1721,25 @@
           "shield guardian spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Snow Golem",
+        "SearchPatterns": [
+          "snow golem spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Snowman",
+        "SearchPatterns": [
+          "snowman spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1494,7 +1748,7 @@
           "steel bird spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1503,7 +1757,7 @@
           "steel predator spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1521,7 +1775,16 @@
           "stone golem spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tomb Tapper",
+        "SearchPatterns": [
+          "tomb tapper spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]
@@ -1718,7 +1981,7 @@
           "black dragon wyrmling spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1727,7 +1990,7 @@
           "black guard drake spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1736,7 +1999,7 @@
           "blue dragon wyrmling spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1745,7 +2008,7 @@
           "blue guard drake spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1753,8 +2016,10 @@
         "SearchPatterns": [
           "brass dragon wyrmling spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "brass dragon wyrmling mediumplus"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1763,7 +2028,7 @@
           "bronze dragon wyrmling spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1772,7 +2037,7 @@
           "copper dragon wyrmling spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1799,7 +2064,7 @@
           "gold dragon wyrmling spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1808,7 +2073,7 @@
           "green dragon wyrmling spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1817,7 +2082,7 @@
           "green guard drake spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1826,7 +2091,7 @@
           "pseudodragon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1834,8 +2099,10 @@
         "SearchPatterns": [
           "red dragon wyrmling spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "red dragon wyrmling mediumplus"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1844,7 +2111,16 @@
           "red guard drake spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Sea Serpent",
+        "SearchPatterns": [
+          "sea serpent spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1853,7 +2129,16 @@
           "silver dragon wyrmling spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Twilight Dragon",
+        "SearchPatterns": [
+          "twilight dragon spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1862,7 +2147,7 @@
           "white dragon wyrmling spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1871,7 +2156,7 @@
           "white guard drake spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1880,7 +2165,7 @@
           "wyvern spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1889,7 +2174,7 @@
           "young black dragon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1898,7 +2183,7 @@
           "young blue dragon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1907,7 +2192,7 @@
           "young brass dragon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1916,7 +2201,7 @@
           "young bronze dragon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1925,7 +2210,7 @@
           "young copper dragon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1934,7 +2219,7 @@
           "young gold dragon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1943,7 +2228,7 @@
           "young green dragon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1952,7 +2237,7 @@
           "young red dragon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1961,7 +2246,7 @@
           "young silver dragon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1970,7 +2255,7 @@
           "young white dragon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]
@@ -1988,7 +2273,16 @@
           "air spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Air Myrmidon",
+        "SearchPatterns": [
+          "air myrmidon spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -1997,7 +2291,7 @@
           "azer spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2008,7 +2302,16 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dao",
+        "SearchPatterns": [
+          "dao spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2017,7 +2320,7 @@
           "djinni spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2026,7 +2329,16 @@
           "earth elemental spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Earth Myrmidon",
+        "SearchPatterns": [
+          "earth myrmidon spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2035,7 +2347,7 @@
           "efreeti spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2044,7 +2356,25 @@
           "fire elemental spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Fire Myrmidon",
+        "SearchPatterns": [
+          "fire myrmidon spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Flail Snail",
+        "SearchPatterns": [
+          "flail snail spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2066,12 +2396,21 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Frost Salamander",
+        "SearchPatterns": [
+          "frost salamander spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Gargoyle",
         "SearchPatterns": [
           "gargoyle spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2080,7 +2419,7 @@
           "gemheart spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2098,67 +2437,78 @@
           "magmin spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Mephit Dust",
+        "DirectoryName": "Marid",
+        "SearchPatterns": [
+          "marid spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dust Mephit",
         "SearchPatterns": [
           "mephit dust spirit",
           "dust mephit spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Mephit Ice",
+        "DirectoryName": "Ice Mephit",
         "SearchPatterns": [
           "mephit ice spirit",
           "ice mephit spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Mephit Magma",
+        "DirectoryName": "Magma Mephit",
         "SearchPatterns": [
           "mephit magma spirit",
           "magma mephit spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Mephit Mud",
+        "DirectoryName": "Mud Mephit",
         "SearchPatterns": [
           "mephit mud spirit",
           "mud mephit spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Mephit Smoke",
+        "DirectoryName": "Smoke Mephit",
         "SearchPatterns": [
           "mephit smoke spirit",
           "smoke mephit spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Mephit Steam",
+        "DirectoryName": "Steam Mephit",
         "SearchPatterns": [
           "mephit steam spirit",
           "steam mephit spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "steam mephit"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2167,7 +2517,7 @@
           "salamander spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2177,7 +2527,16 @@
           "water spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Water Myrmidon",
+        "SearchPatterns": [
+          "water myrmidon spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2186,7 +2545,7 @@
           "xorn spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]
@@ -2198,12 +2557,21 @@
     "ExpectedFinalNumberOfFiles": 0,
     "SubDirectories": [
       {
+        "DirectoryName": "Annis Hag",
+        "SearchPatterns": [
+          "annis hag spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Blink Dog",
         "SearchPatterns": [
           "blink dog spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2212,7 +2580,7 @@
           "boggle spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2221,7 +2589,16 @@
           "dryad spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dusk Hag",
+        "SearchPatterns": [
+          "dusk hag spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2230,7 +2607,7 @@
           "einhornchen spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2239,7 +2616,16 @@
           "green hag spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Redcap",
+        "SearchPatterns": [
+          "redcap spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2248,7 +2634,7 @@
           "satyr spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2257,7 +2643,7 @@
           "sea hag spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2266,7 +2652,7 @@
           "sprite spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]
@@ -2283,7 +2669,16 @@
           "balor spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Baphomet",
+        "SearchPatterns": [
+          "baphomet spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2292,7 +2687,16 @@
           "barbed devil spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Barghest",
+        "SearchPatterns": [
+          "barghest spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2301,7 +2705,7 @@
           "bearded devil spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2310,7 +2714,16 @@
           "bone devil spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Cambion",
+        "SearchPatterns": [
+          "cambion spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2319,7 +2732,7 @@
           "chain devil spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2328,7 +2741,7 @@
           "corpse eater spider spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2337,7 +2750,16 @@
           "corrupted angel spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dark Prince Demon",
+        "SearchPatterns": [
+          "dark prince demon spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2356,7 +2778,7 @@
           "dretch demon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2365,7 +2787,7 @@
           "erinyes spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2374,7 +2796,7 @@
           "fallen archangel spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2383,7 +2805,16 @@
           "glabrezu spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goristro",
+        "SearchPatterns": [
+          "goristro spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2392,7 +2823,7 @@
           "hell boar spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2400,8 +2831,10 @@
         "SearchPatterns": [
           "hell hound spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2410,7 +2843,7 @@
           "hellfire butcher spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2419,7 +2852,7 @@
           "hellfire handmaiden spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2428,7 +2861,7 @@
           "hellfire legionnaire spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2437,7 +2870,7 @@
           "hellfire temptress spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2446,7 +2879,7 @@
           "hezrou spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2455,7 +2888,7 @@
           "horned devil spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2464,7 +2897,7 @@
           "ice devil spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2473,7 +2906,7 @@
           "imp spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2482,7 +2915,7 @@
           "incubus spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2490,10 +2923,17 @@
         "SearchPatterns": [
           "lemure spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Licker Hound",
+        "SearchPatterns": [
+          "licker hound spirit"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2503,7 +2943,7 @@
           "manes demon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2512,7 +2952,7 @@
           "marilith spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2521,7 +2961,7 @@
           "mistress of blood spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2530,7 +2970,7 @@
           "nalfeshnee spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2539,7 +2979,7 @@
           "night hag spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2548,7 +2988,7 @@
           "nightmare spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2557,7 +2997,7 @@
           "pit fiend spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2566,7 +3006,7 @@
           "quasit spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2575,7 +3015,16 @@
           "rakshasa spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Stinger Jackal",
+        "SearchPatterns": [
+          "stinger jackal spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2584,7 +3033,7 @@
           "spined devil spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2593,7 +3042,16 @@
           "succubus spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tlacatecolo",
+        "SearchPatterns": [
+          "tlacatecolo spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2602,7 +3060,7 @@
           "vrock spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]
@@ -2618,8 +3076,19 @@
         "SearchPatterns": [
           "cloud giant spirit"
         ],
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Cyclops",
+        "SearchPatterns": [
+          "cyclops spirit"
+        ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2628,7 +3097,7 @@
           "ettin spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2637,7 +3106,7 @@
           "fire giant spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2647,7 +3116,7 @@
           "frost spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2656,7 +3125,7 @@
           "hill giant spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2674,7 +3143,7 @@
           "ogre spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2683,7 +3152,7 @@
           "oni spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2692,7 +3161,7 @@
           "stone giant spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2701,7 +3170,7 @@
           "storm giant spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2710,7 +3179,7 @@
           "troll spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]
@@ -2727,7 +3196,7 @@
           "acolyte spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2735,8 +3204,10 @@
         "SearchPatterns": [
           "apprentice wizard spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2745,7 +3216,7 @@
           "archmage spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 16,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2754,7 +3225,7 @@
           "assassin spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2763,7 +3234,7 @@
           "bandit spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2772,7 +3243,7 @@
           "bandit captain spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2781,7 +3252,7 @@
           "berserker spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2790,7 +3261,7 @@
           "bugbear spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2806,11 +3277,23 @@
         "DirectoryName": "Cultist",
         "SearchPatterns": [
           "cultist spirit",
-          "cult fanatic spirit",
           "howling hatred initiate spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 16,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Cult Fanatic",
+        "SearchPatterns": [
+          "cult fanatic spirit"
+        ],
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2828,7 +3311,7 @@
           "deep gnome spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2837,7 +3320,7 @@
           "desert cavalry spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 20,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2846,7 +3329,7 @@
           "desert guard spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 44,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2854,8 +3337,10 @@
         "SearchPatterns": [
           "drow spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2864,7 +3349,7 @@
           "druid medium spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 16,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2873,7 +3358,25 @@
           "duergar spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 12,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Father Christmas",
+        "SearchPatterns": [
+          "father christmas spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Froglin",
+        "SearchPatterns": [
+          "froglin spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2882,7 +3385,7 @@
           "gladiator spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2891,7 +3394,7 @@
           "gnoll spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2916,7 +3419,7 @@
           "goblin wizard spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 52,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2925,7 +3428,7 @@
           "grimlock spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2933,10 +3436,8 @@
         "SearchPatterns": [
           "guard spirit"
         ],
-        "DeletePatterns": [
-          "duplc1"
-        ],
-        "ExpectedFinalNumberOfFiles": 48,
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2945,7 +3446,7 @@
           "half-red dragon veteran spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2954,7 +3455,7 @@
           "hobgoblin spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2963,7 +3464,7 @@
           "knight spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2972,7 +3473,7 @@
           "kobold spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 12,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2981,7 +3482,16 @@
           "lizardfolk spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Jolly Gnome",
+        "SearchPatterns": [
+          "jolly gnome spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -2990,16 +3500,17 @@
           "mage spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 16,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
         "DirectoryName": "Merfolk",
         "SearchPatterns": [
-          "merfolk spirit"
+          "merfolk spirit",
+          "mermaid spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3008,7 +3519,7 @@
           "noble spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3017,7 +3528,25 @@
           "orc spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Pirate",
+        "SearchPatterns": [
+          "pirate spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Plague Doctor",
+        "SearchPatterns": [
+          "plague doctor spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3035,7 +3564,7 @@
           "priest spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3044,7 +3573,7 @@
           "sahuagin spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3053,7 +3582,25 @@
           "scout spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Serpentfolk Malison",
+        "SearchPatterns": [
+          "serpentfolk malison spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Serpentfolk Pureblood",
+        "SearchPatterns": [
+          "serpentfolk pureblood spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3062,7 +3609,7 @@
           "skulk spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3071,7 +3618,7 @@
           "spy spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3080,7 +3627,16 @@
           "thug spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tomten",
+        "SearchPatterns": [
+          "tomten spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3089,7 +3645,16 @@
           "tribal warrior spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Troglodyte",
+        "SearchPatterns": [
+          "troglodyte spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3098,7 +3663,7 @@
           "veteran spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3107,7 +3672,7 @@
           "werebear spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3116,7 +3681,7 @@
           "wereboar spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3125,7 +3690,16 @@
           "wererat spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Wereshark",
+        "SearchPatterns": [
+          "wereshark spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3134,7 +3708,7 @@
           "weretiger spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3143,7 +3717,7 @@
           "werewolf spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3152,7 +3726,7 @@
           "winged kobold spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3160,8 +3734,10 @@
         "SearchPatterns": [
           "witch spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3170,24 +3746,7 @@
           "xvart spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
-        "SubDirectories": null
-      }
-    ]
-  },
-  {
-    "DirectoryName": "Merfolk",
-    "SearchPatterns": null,
-    "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 0,
-    "SubDirectories": [
-      {
-        "DirectoryName": "Mermaid",
-        "SearchPatterns": [
-          "mermaid spirit"
-        ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]
@@ -3204,7 +3763,7 @@
           "androsphinx spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3213,7 +3772,7 @@
           "ankheg spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3226,12 +3785,21 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Aurumvorax",
+        "SearchPatterns": [
+          "aurumvorax spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Basilisk",
         "SearchPatterns": [
           "basilisk spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3240,7 +3808,16 @@
           "behir spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Brown Scavver",
+        "SearchPatterns": [
+          "brown scavver spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3249,7 +3826,7 @@
           "bulette spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3258,7 +3835,7 @@
           "carrion crawler spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3267,7 +3844,7 @@
           "centaur spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3276,7 +3853,7 @@
           "chimera spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3294,7 +3871,16 @@
           "cockatrice spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Crustacean Abomination",
+        "SearchPatterns": [
+          "crustacean abomination spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3303,7 +3889,7 @@
           "darkmantle spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3312,7 +3898,7 @@
           "death dog spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3321,7 +3907,25 @@
           "doppelganger spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Draconian Elite",
+        "SearchPatterns": [
+          "draconian elite spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Draconian Mastermind",
+        "SearchPatterns": [
+          "draconian mastermind spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3330,7 +3934,7 @@
           "drider spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3339,7 +3943,7 @@
           "ettercap spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3352,12 +3956,21 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Gift Mimic",
+        "SearchPatterns": [
+          "gift mimic spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Gorgon",
         "SearchPatterns": [
           "gorgon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3375,7 +3988,7 @@
           "grick spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3384,7 +3997,7 @@
           "griffon spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3393,7 +4006,7 @@
           "guardian naga spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3402,7 +4015,7 @@
           "gynosphinx spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3411,7 +4024,7 @@
           "harpy spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3429,7 +4042,7 @@
           "hippogriff spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3460,12 +4073,30 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Krampus",
+        "SearchPatterns": [
+          "krampus spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Lamia",
         "SearchPatterns": [
           "lamia spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Leucrotta",
+        "SearchPatterns": [
+          "leucrotta spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3474,7 +4105,7 @@
           "manticore spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3483,7 +4114,7 @@
           "medusa spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3492,7 +4123,7 @@
           "merrow spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3501,7 +4132,7 @@
           "mimic spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3510,7 +4141,25 @@
           "minotaur spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Necro Drider",
+        "SearchPatterns": [
+          "necro drider spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Necro Spider",
+        "SearchPatterns": [
+          "necro spider spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3519,7 +4168,16 @@
           "owlbear spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Peryton",
+        "SearchPatterns": [
+          "peryton spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3527,8 +4185,10 @@
         "SearchPatterns": [
           "phase panther spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3537,7 +4197,7 @@
           "phase spider spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3555,7 +4215,7 @@
           "remorhaz spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3573,7 +4233,7 @@
           "roper spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3582,7 +4242,16 @@
           "rust monster spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Sea Lion",
+        "SearchPatterns": [
+          "sea lion spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3590,8 +4259,10 @@
         "SearchPatterns": [
           "shadow mastiff spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3600,13 +4271,33 @@
           "spirit naga spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
         "DirectoryName": "Tarrasque",
         "SearchPatterns": [
           "tarrasque spirit"
+        ],
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Umber Hulk",
+        "SearchPatterns": [
+          "umber hulk spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Void Shark",
+        "SearchPatterns": [
+          "void shark spirit"
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 0,
@@ -3627,7 +4318,7 @@
           "worg spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3645,7 +4336,7 @@
           "young kruthik spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]
@@ -3662,7 +4353,7 @@
           "black pudding spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3671,7 +4362,7 @@
           "blood globule spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 12,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3689,7 +4380,7 @@
           "gray ooze spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3698,7 +4389,7 @@
           "oblexlord spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3707,7 +4398,7 @@
           "ochre jelly spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]
@@ -3723,8 +4414,10 @@
         "SearchPatterns": [
           "awakened pumpkin spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3735,7 +4428,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3753,7 +4446,7 @@
           "drow spore servant spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3761,8 +4454,46 @@
         "SearchPatterns": [
           "fungal bridesmaid spirit"
         ],
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gas Spore",
+        "SearchPatterns": [
+          "gas spore spirit"
+        ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Lichen Dryad",
+        "SearchPatterns": [
+          "lichen dryad spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Myconid Fungal",
+        "SearchPatterns": [
+          "myconid fungal spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Myconid Funguy",
+        "SearchPatterns": [
+          "myconid funguy spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3773,7 +4504,16 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Needle Blight",
+        "SearchPatterns": [
+          "needle blight spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3782,7 +4522,7 @@
           "shambling mound spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3791,7 +4531,7 @@
           "shrieker spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3800,7 +4540,7 @@
           "treant spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3808,8 +4548,10 @@
         "SearchPatterns": [
           "twig blight spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3818,7 +4560,16 @@
           "violet fungus spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 16,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Wood Woad",
+        "SearchPatterns": [
+          "wood woad spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]
@@ -3844,7 +4595,7 @@
           "angel of decay spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3852,8 +4603,10 @@
         "SearchPatterns": [
           "banshee spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3861,8 +4614,10 @@
         "SearchPatterns": [
           "bodak spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3873,7 +4628,16 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Death Knight",
+        "SearchPatterns": [
+          "death knight spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3882,7 +4646,7 @@
           "demilich spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3890,7 +4654,9 @@
         "SearchPatterns": [
           "dragon skeleton spirit"
         ],
-        "DeletePatterns": null,
+        "DeletePatterns": [
+          "duplc1"
+        ],
         "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
@@ -3900,7 +4666,7 @@
           "flameskull spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3909,7 +4675,7 @@
           "ghast spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3927,7 +4693,7 @@
           "ghoul spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 16,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3935,7 +4701,9 @@
         "SearchPatterns": [
           "headless horseman spirit"
         ],
-        "DeletePatterns": null,
+        "DeletePatterns": [
+          "duplc1"
+        ],
         "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
@@ -3945,7 +4713,7 @@
           "horse skeleton spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3954,7 +4722,16 @@
           "lich spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Lichen Lich",
+        "SearchPatterns": [
+          "lichen lich spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3963,7 +4740,7 @@
           "minotaur skeleton spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3971,8 +4748,10 @@
         "SearchPatterns": [
           "mummy spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3981,7 +4760,7 @@
           "mummy lord spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3990,7 +4769,7 @@
           "nightwalker spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -3999,7 +4778,7 @@
           "ogre zombie spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -4008,7 +4787,7 @@
           "reaper spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -4016,8 +4795,10 @@
         "SearchPatterns": [
           "scarecrow spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -4025,7 +4806,9 @@
         "SearchPatterns": [
           "shadow spirit"
         ],
-        "DeletePatterns": null,
+        "DeletePatterns": [
+          "duplc1"
+        ],
         "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
@@ -4034,8 +4817,10 @@
         "SearchPatterns": [
           "skeleton spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 24,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -4043,7 +4828,9 @@
         "SearchPatterns": [
           "specter spirit"
         ],
-        "DeletePatterns": null,
+        "DeletePatterns": [
+          "duplc1"
+        ],
         "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
@@ -4062,7 +4849,7 @@
           "vampire spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -4080,7 +4867,7 @@
           "vampire lord spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -4089,7 +4876,7 @@
           "vampire spawn spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -4098,7 +4885,7 @@
           "warhorse skeleton spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -4107,7 +4894,7 @@
           "wight spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -4125,7 +4912,16 @@
           "wraith spirit"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 4,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Yuki Onna",
+        "SearchPatterns": [
+          "yuki onna spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       },
       {
@@ -4133,8 +4929,10 @@
         "SearchPatterns": [
           "zombie spirit"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": null
       }
     ]

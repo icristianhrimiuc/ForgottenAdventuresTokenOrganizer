@@ -73,6 +73,7 @@ namespace ForgottenAdventuresTokenOrganizer
 
         private static void RewriteTokens()
         {
+            new FolderStructureWritter().RewriteSpirits();
             new FolderStructureWritter().RewriteTokens();
         }
 

@@ -15,6 +15,24 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Alien Brute",
+        "SearchPatterns": [
+          "alien brute aberration"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 11,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Alien Hound",
+        "SearchPatterns": [
+          "alien hound aberration"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Beholder",
         "SearchPatterns": [
           "beholder aberration",
@@ -22,6 +40,24 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 14,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Brain Devourer",
+        "SearchPatterns": [
+          "brain devourer aberration"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Ceremorph",
+        "SearchPatterns": [
+          "ceremorph aberration"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 11,
         "SubDirectories": null
       },
       {
@@ -58,6 +94,42 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Intellect Snare",
+        "SearchPatterns": [
+          "intellect snare aberration"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Light Devourer",
+        "SearchPatterns": [
+          "light devourer aberration"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Limbo Frog",
+        "SearchPatterns": [
+          "limbo frog aberration"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Mindwitness",
+        "SearchPatterns": [
+          "mindwitness aberration"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
         "SubDirectories": null
       },
       {
@@ -100,6 +172,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Skum",
+        "SearchPatterns": [
+          "skum aberration"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Spectator",
         "SearchPatterns": [
           "spectator aberration",
@@ -116,6 +197,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Voidfin",
+        "SearchPatterns": [
+          "voidfin aberration"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 11,
         "SubDirectories": null
       }
     ]
@@ -225,6 +315,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Black Widow",
+        "SearchPatterns": [
+          "black widow beast"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Blood Hawk",
         "SearchPatterns": [
           "blood hawk beast"
@@ -257,9 +356,10 @@
           "camel beast"
         ],
         "DeletePatterns": [
-          "duplc1"
+          "duplc1",
+          "duplc2"
         ],
-        "ExpectedFinalNumberOfFiles": 1,
+        "ExpectedFinalNumberOfFiles": 9,
         "SubDirectories": null
       },
       {
@@ -477,9 +577,10 @@
           "flying snake beast"
         ],
         "DeletePatterns": [
-          "duplc1"
+          "duplc1",
+          "duplc2"
         ],
-        "ExpectedFinalNumberOfFiles": 5,
+        "ExpectedFinalNumberOfFiles": 10,
         "SubDirectories": null
       },
       {
@@ -620,9 +721,10 @@
           "giant frog beast"
         ],
         "DeletePatterns": [
-          "duplc1"
+          "duplc1",
+          "duplc2"
         ],
-        "ExpectedFinalNumberOfFiles": 7,
+        "ExpectedFinalNumberOfFiles": 10,
         "SubDirectories": null
       },
       {
@@ -644,6 +746,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Giant Hamster",
+        "SearchPatterns": [
+          "giant hamster beast"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Giant Hyena",
         "SearchPatterns": [
           "giant hyena beast"
@@ -657,7 +768,9 @@
         "SearchPatterns": [
           "giant lizard beast"
         ],
-        "DeletePatterns": null,
+        "DeletePatterns": [
+          "duplc1"
+        ],
         "ExpectedFinalNumberOfFiles": 10,
         "SubDirectories": null
       },
@@ -700,12 +813,23 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Giant Riding Lizard",
+        "SearchPatterns": [
+          "giant riding lizard beast"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 22,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Giant Scorpion",
         "SearchPatterns": [
           "giant scorpion beast"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 2,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 9,
         "SubDirectories": null
       },
       {
@@ -742,6 +866,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Giant Tentacle",
+        "SearchPatterns": [
+          "giant tentacle beast"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 88,
         "SubDirectories": null
       },
       {
@@ -844,6 +977,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Jaguar",
+        "SearchPatterns": [
+          "jaguar beast"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Killer Whale",
         "SearchPatterns": [
           "killer whale beast"
@@ -920,6 +1062,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Moose",
+        "SearchPatterns": [
+          "moose beast"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Mule",
         "SearchPatterns": [
           "mule beast"
@@ -962,8 +1113,28 @@
         "SearchPatterns": [
           "panther beast"
         ],
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 16,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Parrot",
+        "SearchPatterns": [
+          "parrot beast"
+        ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 6,
+        "ExpectedFinalNumberOfFiles": 20,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Penguin",
+        "SearchPatterns": [
+          "penguin beast"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
         "SubDirectories": null
       },
       {
@@ -1073,6 +1244,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Reindeer",
+        "SearchPatterns": [
+          "reindeer beast"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 16,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Rhinoceros",
         "SearchPatterns": [
           "rhinoceros beast"
@@ -1091,12 +1271,21 @@
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Saber Toothed Tiger",
+        "DirectoryName": "Saber-Toothed Tiger",
         "SearchPatterns": [
           "saber toothed tiger beast"
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Seal",
+        "SearchPatterns": [
+          "seal beast"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
         "SubDirectories": null
       },
       {
@@ -1136,6 +1325,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Sled Dog",
+        "SearchPatterns": [
+          "sled dog beast"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Spider",
         "SearchPatterns": [
           "spider beast"
@@ -1163,13 +1361,31 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Swarm Of Beetles",
+        "SearchPatterns": [
+          "insect swarm beetles swarm"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 1,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Swarm Of Centipedes",
+        "SearchPatterns": [
+          "insect swarm centipedes swarm"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 1,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Swarm Of Insects",
         "SearchPatterns": [
-          "swarm of insects beast",
+          "swarm insects beast",
           "insect swarm swarm"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 12,
+        "ExpectedFinalNumberOfFiles": 8,
         "SubDirectories": null
       },
       {
@@ -1208,6 +1424,24 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Swarm Of Spiders",
+        "SearchPatterns": [
+          "insect swarm spiders swarm"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 1,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Swarm Of Wasps",
+        "SearchPatterns": [
+          "insect swarm wasps swarm"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 1,
         "SubDirectories": null
       },
       {
@@ -1320,6 +1554,33 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Guardian Lion",
+        "SearchPatterns": [
+          "guardian lion celestial"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Hollyphant",
+        "SearchPatterns": [
+          "hollyphant celestial"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 11,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Kirin",
+        "SearchPatterns": [
+          "kirin celestial"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Pegasus",
         "SearchPatterns": [
           "pegasus celestial"
@@ -1338,6 +1599,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Starlight Apparition",
+        "SearchPatterns": [
+          "starlight apparition celestial"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Solar",
         "SearchPatterns": [
           "solar celestial"
@@ -1353,6 +1623,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 15,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Valkyrie",
+        "SearchPatterns": [
+          "valkyrie celestial"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
         "SubDirectories": null
       }
     ]
@@ -1447,6 +1726,24 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Snow Golem",
+        "SearchPatterns": [
+          "snow golem construct"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Snowman",
+        "SearchPatterns": [
+          "snowman construct"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 13,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Steel Bird",
         "SearchPatterns": [
           "steel bird construct"
@@ -1481,6 +1778,15 @@
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 7,
         "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tomb Tapper",
+        "SearchPatterns": [
+          "tomb tapper construct"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 16,
+        "SubDirectories": null
       }
     ]
   },
@@ -1496,7 +1802,7 @@
           "adult black dragon dragon"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 13,
+        "ExpectedFinalNumberOfFiles": 14,
         "SubDirectories": null
       },
       {
@@ -1505,7 +1811,7 @@
           "adult blue dragon dragon"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 13,
+        "ExpectedFinalNumberOfFiles": 14,
         "SubDirectories": null
       },
       {
@@ -1514,7 +1820,7 @@
           "adult brass dragon dragon"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 0,
+        "ExpectedFinalNumberOfFiles": 13,
         "SubDirectories": null
       },
       {
@@ -1523,7 +1829,7 @@
           "adult bronze dragon dragon"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 0,
+        "ExpectedFinalNumberOfFiles": 13,
         "SubDirectories": null
       },
       {
@@ -1532,7 +1838,7 @@
           "adult copper dragon dragon"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 0,
+        "ExpectedFinalNumberOfFiles": 13,
         "SubDirectories": null
       },
       {
@@ -1541,7 +1847,7 @@
           "adult gold dragon dragon"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 0,
+        "ExpectedFinalNumberOfFiles": 14,
         "SubDirectories": null
       },
       {
@@ -1550,7 +1856,7 @@
           "adult green dragon dragon"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 13,
+        "ExpectedFinalNumberOfFiles": 14,
         "SubDirectories": null
       },
       {
@@ -1559,7 +1865,7 @@
           "adult red dragon dragon"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 13,
+        "ExpectedFinalNumberOfFiles": 14,
         "SubDirectories": null
       },
       {
@@ -1568,7 +1874,7 @@
           "adult silver dragon dragon"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 0,
+        "ExpectedFinalNumberOfFiles": 13,
         "SubDirectories": null
       },
       {
@@ -1577,7 +1883,7 @@
           "adult white dragon dragon"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 14,
+        "ExpectedFinalNumberOfFiles": 15,
         "SubDirectories": null
       },
       {
@@ -1595,7 +1901,7 @@
           "ancient blue dragon dragon"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 0,
+        "ExpectedFinalNumberOfFiles": 14,
         "SubDirectories": null
       },
       {
@@ -1649,7 +1955,7 @@
           "ancient red dragon dragon"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 0,
+        "ExpectedFinalNumberOfFiles": 28,
         "SubDirectories": null
       },
       {
@@ -1810,12 +2116,30 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Sea Serpent",
+        "SearchPatterns": [
+          "sea serpent dragon"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 40,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Silver Dragon Wyrmling",
         "SearchPatterns": [
           "silver dragon wyrmling dragon"
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Twilight Dragon",
+        "SearchPatterns": [
+          "twilight dragon dragon"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 13,
         "SubDirectories": null
       },
       {
@@ -1954,6 +2278,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Air Myrmidon",
+        "SearchPatterns": [
+          "air myrmidon elemental"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Azer",
         "SearchPatterns": [
           "azer elemental"
@@ -1971,6 +2304,15 @@
           "duplc1"
         ],
         "ExpectedFinalNumberOfFiles": 1,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dao",
+        "SearchPatterns": [
+          "dao elemental"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
         "SubDirectories": null
       },
       {
@@ -1992,6 +2334,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Earth Myrmidon",
+        "SearchPatterns": [
+          "earth myrmidon elemental"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 11,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Efreeti",
         "SearchPatterns": [
           "efreeti elemental"
@@ -2010,6 +2361,24 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Fire Myrmidon",
+        "SearchPatterns": [
+          "fire myrmidon elemental"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Flail Snail",
+        "SearchPatterns": [
+          "flail snail elemental"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 14,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Frost Maiden Second Form",
         "SearchPatterns": [
           "frost maiden second form elemental"
@@ -2025,6 +2394,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 4,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Frost Salamander",
+        "SearchPatterns": [
+          "frost salamander elemental"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
         "SubDirectories": null
       },
       {
@@ -2064,7 +2442,16 @@
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Mephit Dust",
+        "DirectoryName": "Marid",
+        "SearchPatterns": [
+          "marid elemental"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dust Mephit",
         "SearchPatterns": [
           "mephit dust elemental",
           "dust mephit elemental"
@@ -2074,7 +2461,7 @@
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Mephit Ice",
+        "DirectoryName": "Ice Mephit",
         "SearchPatterns": [
           "mephit ice elemental",
           "ice mephit elemental"
@@ -2084,7 +2471,7 @@
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Mephit Magma",
+        "DirectoryName": "Magma Mephit",
         "SearchPatterns": [
           "mephit magma elemental",
           "magma mephit elemental"
@@ -2094,7 +2481,7 @@
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Mephit Mud",
+        "DirectoryName": "Mud Mephit",
         "SearchPatterns": [
           "mephit mud elemental",
           "mud mephit elemental"
@@ -2104,7 +2491,7 @@
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Mephit Smoke",
+        "DirectoryName": "Smoke Mephit",
         "SearchPatterns": [
           "mephit smoke elemental",
           "smoke mephit elemental"
@@ -2114,7 +2501,7 @@
         "SubDirectories": null
       },
       {
-        "DirectoryName": "Mephit Steam",
+        "DirectoryName": "Steam Mephit",
         "SearchPatterns": [
           "mephit steam elemental",
           "steam mephit elemental"
@@ -2145,6 +2532,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Water Myrmidon",
+        "SearchPatterns": [
+          "water myrmidon elemental"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 11,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Xorn",
         "SearchPatterns": [
           "xorn elemental"
@@ -2161,6 +2557,15 @@
     "DeletePatterns": null,
     "ExpectedFinalNumberOfFiles": 0,
     "SubDirectories": [
+      {
+        "DirectoryName": "Annis Hag",
+        "SearchPatterns": [
+          "annis hag fey"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
       {
         "DirectoryName": "Blink Dog",
         "SearchPatterns": [
@@ -2189,6 +2594,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Dusk Hag",
+        "SearchPatterns": [
+          "dusk hag fey"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 11,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Einhornchen",
         "SearchPatterns": [
           "einhornchen fey"
@@ -2204,6 +2618,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 18,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Redcap",
+        "SearchPatterns": [
+          "redcap fey"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
         "SubDirectories": null
       },
       {
@@ -2251,12 +2674,30 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Baphomet",
+        "SearchPatterns": [
+          "baphomet fiend"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 20,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Barbed Devil",
         "SearchPatterns": [
           "barbed devil fiend"
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Barghest",
+        "SearchPatterns": [
+          "barghest fiend"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
         "SubDirectories": null
       },
       {
@@ -2275,6 +2716,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 28,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Cambion",
+        "SearchPatterns": [
+          "cambion fiend"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 24,
         "SubDirectories": null
       },
       {
@@ -2302,6 +2752,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Dark Prince Demon",
+        "SearchPatterns": [
+          "dark prince demon fiend"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 20,
         "SubDirectories": null
       },
       {
@@ -2348,6 +2807,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Goristro",
+        "SearchPatterns": [
+          "goristro fiend"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
         "SubDirectories": null
       },
       {
@@ -2463,6 +2931,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Licker Hound",
+        "SearchPatterns": [
+          "licker hound fiend"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Manes",
         "SearchPatterns": [
           "manes fiend",
@@ -2545,6 +3022,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Stinger Jackal",
+        "SearchPatterns": [
+          "stinger jackal fiend"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Spined Devil",
         "SearchPatterns": [
           "spined devil fiend"
@@ -2560,6 +3046,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 15,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Tlacatecolo",
+        "SearchPatterns": [
+          "tlacatecolo fiend"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
         "SubDirectories": null
       },
       {
@@ -2588,6 +3083,15 @@
           "duplc1"
         ],
         "ExpectedFinalNumberOfFiles": 11,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Cyclops",
+        "SearchPatterns": [
+          "cyclops giant"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
         "SubDirectories": null
       },
       {
@@ -2777,15 +3281,26 @@
       {
         "DirectoryName": "Cultist",
         "SearchPatterns": [
+          "cultist",
           "cultist humanoid",
-          "cult fanatic humanoid",
           "howling hatred initiate humanoid",
           "howling hatred initiate"
         ],
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 21,
+        "ExpectedFinalNumberOfFiles": 237,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Cult Fanatic",
+        "SearchPatterns": [
+          "cult fanatic humanoid"
+        ],
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 8,
         "SubDirectories": null
       },
       {
@@ -2829,10 +3344,13 @@
       {
         "DirectoryName": "Drow",
         "SearchPatterns": [
+          "drow",
           "drow humanoid"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 180,
         "SubDirectories": null
       },
       {
@@ -2851,6 +3369,24 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 22,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Father Christmas",
+        "SearchPatterns": [
+          "father christmas humanoid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Froglin",
+        "SearchPatterns": [
+          "froglin humanoid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
         "SubDirectories": null
       },
       {
@@ -2961,6 +3497,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Jolly Gnome",
+        "SearchPatterns": [
+          "jolly gnome humanoid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Mage",
         "SearchPatterns": [
           "mage humanoid"
@@ -2972,10 +3517,11 @@
       {
         "DirectoryName": "Merfolk",
         "SearchPatterns": [
-          "merfolk humanoid"
+          "merfolk humanoid",
+          "mermaid merfolk"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 24,
+        "ExpectedFinalNumberOfFiles": 34,
         "SubDirectories": null
       },
       {
@@ -2990,10 +3536,29 @@
       {
         "DirectoryName": "Orc",
         "SearchPatterns": [
+          "orc",
           "orc humanoid"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 8,
+        "ExpectedFinalNumberOfFiles": 144,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Pirate",
+        "SearchPatterns": [
+          "pirate humanoid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 184,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Plague Doctor",
+        "SearchPatterns": [
+          "plague doctor humanoid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 32,
         "SubDirectories": null
       },
       {
@@ -3033,6 +3598,24 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Serpentfolk Malison",
+        "SearchPatterns": [
+          "serpentfolk malison humanoid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Serpentfolk Pureblood",
+        "SearchPatterns": [
+          "serpentfolk pureblood humanoid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Skulk",
         "SearchPatterns": [
           "skulk humanoid"
@@ -3060,12 +3643,30 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Tomten",
+        "SearchPatterns": [
+          "tomten humanoid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 16,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Tribal Warrior",
         "SearchPatterns": [
           "tribal warrior humanoid"
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 5,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Troglodyte",
+        "SearchPatterns": [
+          "troglodyte humanoid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
         "SubDirectories": null
       },
       {
@@ -3102,6 +3703,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 14,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Wereshark",
+        "SearchPatterns": [
+          "wereshark humanoid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 18,
         "SubDirectories": null
       },
       {
@@ -3154,23 +3764,6 @@
     ]
   },
   {
-    "DirectoryName": "Merfolk",
-    "SearchPatterns": null,
-    "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 0,
-    "SubDirectories": [
-      {
-        "DirectoryName": "Mermaid",
-        "SearchPatterns": [
-          "mermaid merfolk"
-        ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 10,
-        "SubDirectories": null
-      }
-    ]
-  },
-  {
     "DirectoryName": "Monstrosity",
     "SearchPatterns": null,
     "DeletePatterns": null,
@@ -3204,6 +3797,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Aurumvorax",
+        "SearchPatterns": [
+          "aurumvorax monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 11,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Basilisk",
         "SearchPatterns": [
           "basilisk monstrosity"
@@ -3219,6 +3821,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 13,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Brown Scavver",
+        "SearchPatterns": [
+          "brown scavver monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
         "SubDirectories": null
       },
       {
@@ -3276,6 +3887,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Crustacean Abomination",
+        "SearchPatterns": [
+          "crustacean abomination monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Darkmantle",
         "SearchPatterns": [
           "darkmantle monstrosity"
@@ -3303,6 +3923,24 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Draconian Elite",
+        "SearchPatterns": [
+          "draconian elite monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Draconian Mastermind",
+        "SearchPatterns": [
+          "draconian mastermind monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Drider",
         "SearchPatterns": [
           "drider monstrosity"
@@ -3327,6 +3965,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gift Mimic",
+        "SearchPatterns": [
+          "gift mimic monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 20,
         "SubDirectories": null
       },
       {
@@ -3438,12 +4085,30 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Krampus",
+        "SearchPatterns": [
+          "krampus monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 16,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Lamia",
         "SearchPatterns": [
           "lamia monstrosity"
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Leucrotta",
+        "SearchPatterns": [
+          "leucrotta monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
         "SubDirectories": null
       },
       {
@@ -3492,6 +4157,24 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Necro Drider",
+        "SearchPatterns": [
+          "necro drider monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 20,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Necro Spider",
+        "SearchPatterns": [
+          "necro spider monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Owlbear",
         "SearchPatterns": [
           "owlbear monstrosity",
@@ -3502,12 +4185,23 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Peryton",
+        "SearchPatterns": [
+          "peryton monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 11,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Phase Panther",
         "SearchPatterns": [
           "phase panther monstrosity"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 6,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 16,
         "SubDirectories": null
       },
       {
@@ -3565,6 +4259,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Sea Lion",
+        "SearchPatterns": [
+          "sea lion monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Shadow Mastiff",
         "SearchPatterns": [
           "shadow mastiff monstrosity"
@@ -3589,8 +4292,28 @@
         "SearchPatterns": [
           "tarrasque monstrosity"
         ],
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 33,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Umber Hulk",
+        "SearchPatterns": [
+          "umber hulk monstrosity"
+        ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 5,
+        "ExpectedFinalNumberOfFiles": 8,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Void Shark",
+        "SearchPatterns": [
+          "void shark monstrosity"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
         "SubDirectories": null
       },
       {
@@ -3744,8 +4467,46 @@
         "SearchPatterns": [
           "fungal bridesmaid plant"
         ],
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gas Spore",
+        "SearchPatterns": [
+          "gas spore plant"
+        ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 7,
+        "ExpectedFinalNumberOfFiles": 11,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Lichen Dryad",
+        "SearchPatterns": [
+          "lichen dryad plant"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 24,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Myconid Fungal",
+        "SearchPatterns": [
+          "myconid fungal plant"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Myconid Funguy",
+        "SearchPatterns": [
+          "myconid funguy plant"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 12,
         "SubDirectories": null
       },
       {
@@ -3753,8 +4514,19 @@
         "SearchPatterns": [
           "myconid sprout plant"
         ],
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 12,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Needle Blight",
+        "SearchPatterns": [
+          "needle blight plant"
+        ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 6,
+        "ExpectedFinalNumberOfFiles": 11,
         "SubDirectories": null
       },
       {
@@ -3789,8 +4561,10 @@
         "SearchPatterns": [
           "twig blight plant"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 5,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 53,
         "SubDirectories": null
       },
       {
@@ -3800,6 +4574,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 30,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Wood Woad",
+        "SearchPatterns": [
+          "wood woad plant"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 36,
         "SubDirectories": null
       }
     ]
@@ -3833,8 +4616,10 @@
         "SearchPatterns": [
           "banshee undead"
         ],
-        "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 7,
+        "DeletePatterns": [
+          "duplc1"
+        ],
+        "ExpectedFinalNumberOfFiles": 8,
         "SubDirectories": null
       },
       {
@@ -3857,6 +4642,15 @@
           "duplc1"
         ],
         "ExpectedFinalNumberOfFiles": 6,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Death Knight",
+        "SearchPatterns": [
+          "death knight undead"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 9,
         "SubDirectories": null
       },
       {
@@ -3942,6 +4736,15 @@
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 24,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Lichen Lich",
+        "SearchPatterns": [
+          "lichen lich undead"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 18,
         "SubDirectories": null
       },
       {
@@ -4128,6 +4931,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Yuki Onna",
+        "SearchPatterns": [
+          "yuki onna undead"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 10,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Zombie",
         "SearchPatterns": [
           "zombie undead"
@@ -4135,7 +4947,7 @@
         "DeletePatterns": [
           "duplc1"
         ],
-        "ExpectedFinalNumberOfFiles": 12,
+        "ExpectedFinalNumberOfFiles": 27,
         "SubDirectories": null
       }
     ]

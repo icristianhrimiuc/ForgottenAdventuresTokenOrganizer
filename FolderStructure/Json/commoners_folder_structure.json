@@ -1,11 +1,21 @@
 [
   {
-    "DirectoryName": "Dragonborn",
+    "DirectoryName": "Catfolk",
     "SearchPatterns": [
-      "dragonborn commoner"
+      "townsfolk ba"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 20,
+    "ExpectedFinalNumberOfFiles": 8,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Dragonborn",
+    "SearchPatterns": [
+      "dragonborn commoner",
+      "townsfolk bb"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 28,
     "SubDirectories": null
   },
   {
@@ -46,10 +56,15 @@
       "townsfolk am2",
       "townsfolk an2",
       "townsfolk ao2",
-      "townsfolk ap2"
+      "townsfolk ap2",
+      "townsfolk aq1",
+      "townsfolk ar2",
+      "townsfolk au2",
+      "townsfolk ay2",
+      "townsfolk az2"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 83,
+    "ExpectedFinalNumberOfFiles": 128,
     "SubDirectories": null
   },
   {
@@ -125,19 +140,36 @@
       "townsfolk am1",
       "townsfolk an1",
       "townsfolk ao1",
-      "townsfolk ap1"
+      "townsfolk ap1",
+      "townsfolk aq2",
+      "townsfolk ar1",
+      "townsfolk at1",
+      "townsfolk at2",
+      "townsfolk ap1",
+      "townsfolk au1",
+      "townsfolk av1",
+      "townsfolk av2",
+      "townsfolk av3",
+      "townsfolk aw",
+      "townsfolk ax",
+      "townsfolk ay1",
+      "townsfolk az1",
+      "townsfolk bc",
+      "townsfolk bd",
+      "townsfolk be"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 329,
+    "ExpectedFinalNumberOfFiles": 449,
     "SubDirectories": null
   },
   {
     "DirectoryName": "Tieflings",
     "SearchPatterns": [
-      "tiefling commoner"
+      "tiefling commoner",
+      "townsfolk as"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 12,
+    "ExpectedFinalNumberOfFiles": 20,
     "SubDirectories": null
   }
 ]

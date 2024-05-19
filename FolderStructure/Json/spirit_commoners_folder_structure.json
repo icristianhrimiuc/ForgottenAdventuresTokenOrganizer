@@ -1,11 +1,21 @@
 [
   {
-    "DirectoryName": "Dragonborn",
+    "DirectoryName": "Catfolk",
     "SearchPatterns": [
-      "dragonborn commoner spirit"
+      "townsfolk ba spirit"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 8,
+    "ExpectedFinalNumberOfFiles": 0,
+    "SubDirectories": null
+  },
+  {
+    "DirectoryName": "Dragonborn",
+    "SearchPatterns": [
+      "dragonborn commoner spirit",
+      "townsfolk bb spirit"
+    ],
+    "DeletePatterns": null,
+    "ExpectedFinalNumberOfFiles": 0,
     "SubDirectories": null
   },
   {
@@ -14,7 +24,7 @@
       "dwarf commoner spirit"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 8,
+    "ExpectedFinalNumberOfFiles": 0,
     "SubDirectories": null
   },
   {
@@ -23,7 +33,7 @@
       "elf commoner spirit"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 8,
+    "ExpectedFinalNumberOfFiles": 0,
     "SubDirectories": null
   },
   {
@@ -32,7 +42,7 @@
       "gnome commoner spirit"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 8,
+    "ExpectedFinalNumberOfFiles": 0,
     "SubDirectories": null
   },
   {
@@ -46,10 +56,15 @@
       "townsfolk am2 spirit",
       "townsfolk an2 spirit",
       "townsfolk ao2 spirit",
-      "townsfolk ap2 spirit"
+      "townsfolk ap2 spirit",
+      "townsfolk aq1 spirit",
+      "townsfolk ar2 spirit",
+      "townsfolk au2 spirit",
+      "townsfolk ay2 spirit",
+      "townsfolk az2 spirit"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 40,
+    "ExpectedFinalNumberOfFiles": 0,
     "SubDirectories": null
   },
   {
@@ -58,7 +73,7 @@
       "halforc commoner spirit"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 8,
+    "ExpectedFinalNumberOfFiles": 0,
     "SubDirectories": null
   },
   {
@@ -84,7 +99,7 @@
       "halfling peddler spirit"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 8,
+    "ExpectedFinalNumberOfFiles": 0,
     "SubDirectories": null
   },
   {
@@ -125,19 +140,35 @@
       "townsfolk am1 spirit",
       "townsfolk an1 spirit",
       "townsfolk ao1 spirit",
-      "townsfolk ap1 spirit"
+      "townsfolk ap1 spirit",
+      "townsfolk aq2 spirit",
+      "townsfolk ar1 spirit",
+      "townsfolk at1 spirit",
+      "townsfolk at2 spirit",
+      "townsfolk au1 spirit",
+      "townsfolk av1 spirit",
+      "townsfolk av2 spirit",
+      "townsfolk av3 spirit",
+      "townsfolk aw spirit",
+      "townsfolk ax spirit",
+      "townsfolk ay1 spirit",
+      "townsfolk az1 spirit",
+      "townsfolk bc spirit",
+      "townsfolk bd spirit",
+      "townsfolk be spirit"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 340,
+    "ExpectedFinalNumberOfFiles": 0,
     "SubDirectories": null
   },
   {
     "DirectoryName": "Tieflings",
     "SearchPatterns": [
-      "tiefling commoner spirit"
+      "tiefling commoner spirit",
+      "townsfolk as spirit"
     ],
     "DeletePatterns": null,
-    "ExpectedFinalNumberOfFiles": 8,
+    "ExpectedFinalNumberOfFiles": 0,
     "SubDirectories": null
   }
 ]
