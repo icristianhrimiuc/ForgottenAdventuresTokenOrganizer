@@ -43,3 +43,17 @@ The following files are just independent .json files, they are used to rewrite t
 - "spirit_commoners_folder_structure.json";
 - "spirit_creatures_folder_structure.json";
 - "spirit_heroes_folder_structure.json";
+
+
+The purpose of this tool is to facilitate the wildcard linking of images in FoundryVTT for all actors from the Mostrers(SRD) compendium. To do that, you must first organize the images as described above, and then do the steps below:
+- Import all content from the Mostrers(SRD) compendium with KeepFileIDs unchecked;
+- Run the contents of FoundryVTTMacroForWildcardActors.js as a new macro in FoundryVTT. Keep in mind that the macro is designed for FOUNDRY v11 and above:
+- Fix the following actors manually:
+    - Giant Rat (Diseased) - a dedicated image folder does not exist because there are no differences from the Giant Rat. This actor can be safely deleted;
+    - Ancient Blue Dragon - it has no image initially, it has to be manually assigned. Also, the token image scale must be increased to 3;
+    - Dragon Wyrmlings - Select all of them and set their scale to 3 because some scales are too small;
+    - Succubus/Incubus - Split this actor into two actors, Succubus and Incubus then link them to the correct folder;
+    - Commoner - Link this actor to the Commoners/Humanoid folder to use wildcard images;
+    - Orc - Increase the scale of this actor to 3; 
+    - Tarrasque - Increase the scale of this actor to 3; 
+    - Will-o'-Wisp - Change the name and the folder of this actor;
