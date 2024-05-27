@@ -43,9 +43,27 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Brain Cluster",
+        "SearchPatterns": [
+          "brain cluster spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Brain Devourer",
         "SearchPatterns": [
           "brain devourer spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Brain Gemule",
+        "SearchPatterns": [
+          "brain gemule spirit"
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 0,
@@ -82,6 +100,15 @@
         "DirectoryName": "Cthulhu Cultist",
         "SearchPatterns": [
           "cthulhu cultist spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Gray Limbo Frog",
+        "SearchPatterns": [
+          "gray limbo frog spirit"
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 0,
@@ -2664,6 +2691,15 @@
     "ExpectedFinalNumberOfFiles": 0,
     "SubDirectories": [
       {
+        "DirectoryName": "Balgura",
+        "SearchPatterns": [
+          "balgura spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Balor",
         "SearchPatterns": [
           "balor spirit"
@@ -3058,6 +3094,15 @@
         "DirectoryName": "Vrock",
         "SearchPatterns": [
           "vrock spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Yochlol",
+        "SearchPatterns": [
+          "yochlol spirit"
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 0,
@@ -3878,6 +3923,15 @@
         "DirectoryName": "Crustacean Abomination",
         "SearchPatterns": [
           "crustacean abomination spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Crystal Grick",
+        "SearchPatterns": [
+          "crystal grick spirit"
         ],
         "DeletePatterns": null,
         "ExpectedFinalNumberOfFiles": 0,

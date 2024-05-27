@@ -239,12 +239,30 @@
             "SubDirectories": null
           },
           {
+            "DirectoryName": "Brain Cluster",
+            "SearchPatterns": [
+              "brain cluster aberration"
+            ],
+            "DeletePatterns": null,
+            "ExpectedFinalNumberOfFiles": 18,
+            "SubDirectories": null
+          },
+          {
             "DirectoryName": "Brain Devourer",
             "SearchPatterns": [
               "brain devourer aberration"
             ],
             "DeletePatterns": null,
             "ExpectedFinalNumberOfFiles": 9,
+            "SubDirectories": null
+          },
+          {
+            "DirectoryName": "Brain Gemule",
+            "SearchPatterns": [
+              "brain gemule aberration"
+            ],
+            "DeletePatterns": null,
+            "ExpectedFinalNumberOfFiles": 8,
             "SubDirectories": null
           },
           {
@@ -278,6 +296,15 @@
             "DirectoryName": "Cthulhu Cultist",
             "SearchPatterns": [
               "cthulhu cultist aberration"
+            ],
+            "DeletePatterns": null,
+            "ExpectedFinalNumberOfFiles": 8,
+            "SubDirectories": null
+          },
+          {
+            "DirectoryName": "Gray Limbo Frog",
+            "SearchPatterns": [
+              "gray limbo frog aberration"
             ],
             "DeletePatterns": null,
             "ExpectedFinalNumberOfFiles": 8,
@@ -670,7 +697,7 @@
               "dire wolf beast"
             ],
             "DeletePatterns": null,
-            "ExpectedFinalNumberOfFiles": 14,
+            "ExpectedFinalNumberOfFiles": 24,
             "SubDirectories": null
           },
           {
@@ -1115,7 +1142,7 @@
               "goat beast"
             ],
             "DeletePatterns": null,
-            "ExpectedFinalNumberOfFiles": 6,
+            "ExpectedFinalNumberOfFiles": 14,
             "SubDirectories": null
           },
           {
@@ -2861,6 +2888,15 @@
         "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": [
           {
+            "DirectoryName": "Balgura",
+            "SearchPatterns": [
+              "balgura fiend"
+            ],
+            "DeletePatterns": null,
+            "ExpectedFinalNumberOfFiles": 11,
+            "SubDirectories": null
+          },
+          {
             "DirectoryName": "Balor",
             "SearchPatterns": [
               "balor fiend"
@@ -3260,6 +3296,15 @@
             ],
             "DeletePatterns": null,
             "ExpectedFinalNumberOfFiles": 13,
+            "SubDirectories": null
+          },
+          {
+            "DirectoryName": "Yochlol",
+            "SearchPatterns": [
+              "yochlol fiend"
+            ],
+            "DeletePatterns": null,
+            "ExpectedFinalNumberOfFiles": 8,
             "SubDirectories": null
           }
         ]
@@ -4089,6 +4134,15 @@
             ],
             "DeletePatterns": null,
             "ExpectedFinalNumberOfFiles": 10,
+            "SubDirectories": null
+          },
+          {
+            "DirectoryName": "Crystal Grick",
+            "SearchPatterns": [
+              "crystal grick monstrosity"
+            ],
+            "DeletePatterns": null,
+            "ExpectedFinalNumberOfFiles": 13,
             "SubDirectories": null
           },
           {
@@ -6386,9 +6440,27 @@
             "SubDirectories": null
           },
           {
+            "DirectoryName": "Brain Cluster",
+            "SearchPatterns": [
+              "brain cluster spirit"
+            ],
+            "DeletePatterns": null,
+            "ExpectedFinalNumberOfFiles": 0,
+            "SubDirectories": null
+          },
+          {
             "DirectoryName": "Brain Devourer",
             "SearchPatterns": [
               "brain devourer spirit"
+            ],
+            "DeletePatterns": null,
+            "ExpectedFinalNumberOfFiles": 0,
+            "SubDirectories": null
+          },
+          {
+            "DirectoryName": "Brain Gemule",
+            "SearchPatterns": [
+              "brain gemule spirit"
             ],
             "DeletePatterns": null,
             "ExpectedFinalNumberOfFiles": 0,
@@ -6425,6 +6497,15 @@
             "DirectoryName": "Cthulhu Cultist",
             "SearchPatterns": [
               "cthulhu cultist spirit"
+            ],
+            "DeletePatterns": null,
+            "ExpectedFinalNumberOfFiles": 0,
+            "SubDirectories": null
+          },
+          {
+            "DirectoryName": "Gray Limbo Frog",
+            "SearchPatterns": [
+              "gray limbo frog spirit"
             ],
             "DeletePatterns": null,
             "ExpectedFinalNumberOfFiles": 0,
@@ -9007,6 +9088,15 @@
         "ExpectedFinalNumberOfFiles": 0,
         "SubDirectories": [
           {
+            "DirectoryName": "Balgura",
+            "SearchPatterns": [
+              "balgura spirit"
+            ],
+            "DeletePatterns": null,
+            "ExpectedFinalNumberOfFiles": 0,
+            "SubDirectories": null
+          },
+          {
             "DirectoryName": "Balor",
             "SearchPatterns": [
               "balor spirit"
@@ -9401,6 +9491,15 @@
             "DirectoryName": "Vrock",
             "SearchPatterns": [
               "vrock spirit"
+            ],
+            "DeletePatterns": null,
+            "ExpectedFinalNumberOfFiles": 0,
+            "SubDirectories": null
+          },
+          {
+            "DirectoryName": "Yochlol",
+            "SearchPatterns": [
+              "yochlol spirit"
             ],
             "DeletePatterns": null,
             "ExpectedFinalNumberOfFiles": 0,
@@ -10221,6 +10320,15 @@
             "DirectoryName": "Crustacean Abomination",
             "SearchPatterns": [
               "crustacean abomination spirit"
+            ],
+            "DeletePatterns": null,
+            "ExpectedFinalNumberOfFiles": 0,
+            "SubDirectories": null
+          },
+          {
+            "DirectoryName": "Crystal Grick",
+            "SearchPatterns": [
+              "crystal grick spirit"
             ],
             "DeletePatterns": null,
             "ExpectedFinalNumberOfFiles": 0,
