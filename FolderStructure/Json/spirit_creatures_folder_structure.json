@@ -3586,6 +3586,15 @@
         "SubDirectories": null
       },
       {
+        "DirectoryName": "Pirate Captain",
+        "SearchPatterns": [
+          "pirate captain spirit"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 0,
+        "SubDirectories": null
+      },
+      {
         "DirectoryName": "Plague Doctor",
         "SearchPatterns": [
           "plague doctor spirit"

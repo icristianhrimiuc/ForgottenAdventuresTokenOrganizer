@@ -3594,7 +3594,16 @@
           "pirate humanoid"
         ],
         "DeletePatterns": null,
-        "ExpectedFinalNumberOfFiles": 184,
+        "ExpectedFinalNumberOfFiles": 144,
+        "SubDirectories": null
+      },
+      {
+        "DirectoryName": "Pirate Captain",
+        "SearchPatterns": [
+          "pirate captain humanoid"
+        ],
+        "DeletePatterns": null,
+        "ExpectedFinalNumberOfFiles": 40,
         "SubDirectories": null
       },
       {
